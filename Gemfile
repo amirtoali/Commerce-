@@ -65,3 +65,4 @@ gem 'stripe'
 
 gem "devise", "~> 4.9"
 gem "byebug"
+gem 'acts_as_votable'
